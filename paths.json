@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/secur-financial/:/",
-      "/content/pbakliwal/secur-financial/configuration:/.helix/config.json",
-      "/content/pbakliwal/secur-financial/metadata:/metadata.json",
-      "/content/pbakliwal/secur-financial/configs:/configs.json",
-      "/content/pbakliwal/secur-financial/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/secur-financial/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/secur-financial/redirects:/redirects.json",
-      "/content/pbakliwal/secur-financial/placeholders:/placeholders.json",
-      "/content/pbakliwal/secur-financial/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/secur-financial/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/secur-financial/images/products/:/images/products/"
+      "/content/TCHELKOW/new-demo/:/",
+      "/content/TCHELKOW/new-demo/configuration:/.helix/config.json",
+      "/content/TCHELKOW/new-demo/metadata:/metadata.json",
+      "/content/TCHELKOW/new-demo/configs:/configs.json",
+      "/content/TCHELKOW/new-demo/configs-stage:/configs-stage.json",
+      "/content/TCHELKOW/new-demo/configs-dev:/configs-dev.json",
+      "/content/TCHELKOW/new-demo/redirects:/redirects.json",
+      "/content/TCHELKOW/new-demo/placeholders:/placeholders.json",
+      "/content/TCHELKOW/new-demo/products/recommended-products:/products/recommended-products.json",
+      "/content/TCHELKOW/new-demo/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/TCHELKOW/new-demo/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/secur-financial",
+      "/content/TCHELKOW/new-demo",
       "/content/dam/citisignal/images/products/"
     ]
 }
